@@ -9,6 +9,7 @@ credentials.json
 
 # Local Claude Code tooling (not part of the app)
 .claude/
+.mcp.json
 
 # OS / editor cruft
 .DS_Store
