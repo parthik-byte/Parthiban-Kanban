@@ -2,6 +2,8 @@
 
 A single-page Kanban board demo/training tool for an internal IT PMO ("UOB IT PMO" is a neutral placeholder wordmark, not a real branded system). The entire application — HTML, CSS, and JavaScript — lives in one file: `index.html`. No framework, no build step, no bundler.
 
+![Board screenshot](screenshots/board.png)
+
 ## Live demo
 
 https://parthik-byte.github.io/Parthiban-Kanban/

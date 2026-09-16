@@ -10,6 +10,9 @@ credentials.json
 # Local Claude Code tooling (not part of the app)
 .claude/
 .mcp.json
+.agents/
+.playwright-mcp/
+skills-lock.json
 
 # OS / editor cruft
 .DS_Store
