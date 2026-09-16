@@ -1,0 +1,19 @@
+# Environment / secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+.aws/
+.npmrc
+
+# Local Claude Code tooling (not part of the app)
+.claude/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/
